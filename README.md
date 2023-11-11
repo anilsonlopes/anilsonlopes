@@ -1,4 +1,8 @@
-Hello world 😄
+## Hello world 😄
+
+
+[<img width="250px" alt="Typing on computer" src="https://github.com/anilsonlopes/anilsonlopes/assets/89232048/e29ede5d-f1c5-47b2-961c-9671ec0fb081" />]()
+
 
 ### Experiência de trabalho
 
