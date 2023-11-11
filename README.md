@@ -30,4 +30,4 @@ Linguagens & Tecnologias: `HTML`, `CSS`, `PHP`, `JavaScript`, `JQuery`, `CakePHP
 Projetos em destaque: Site completo da plataforma, Doity Play, Templates para sites de eventos
 <br/>
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/anilsonlopes/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+Encontre-me no [LinkedIn](https://www.linkedin.com/in/anilsonlopes/) para uma descrição mais detalhada da minha jornada.
