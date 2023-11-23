@@ -10,7 +10,7 @@
 
 **Founder & CEO Frontend UI/UX** \
 [**quila.dev**](https://www.linkedin.com/company/quila-dev) • Tempo integral · 2010 ~ atualmente \
-Linguagens & Tecnologias: `HTML`, `CSS`, `TypeScript`, `JavaScript`, `Tailwind`, `Nuxt`, `Vue`, `Cypress` \
+Linguagens & Tecnologias: Explorando o ecossistema para desenvolvimento web \
 Projetos em destaque: Site e experimentos
 <br/>
 
@@ -18,7 +18,7 @@ Projetos em destaque: Site e experimentos
 
 **Lead Frontend Developer UI/UX** \
 [**Acesse seu condomínio**](https://www.linkedin.com/company/79818742/) • Tempo integral • 2020 ~ atualmente \
-Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `Vue`, `Bootstrap`, `Laravel`, `Tailwind` \
+Linguagens & Tecnologias: Tudo que um frontend acessível e escalável precisa \
 Projetos em destaque: Plataforma para gerenciamento de condomínios, Landing pages
 <br/>
 
@@ -29,5 +29,3 @@ Projetos em destaque: Plataforma para gerenciamento de condomínios, Landing pag
 Linguagens & Tecnologias: `HTML`, `CSS`, `PHP`, `JavaScript`, `JQuery`, `CakePHP`, `Vue`, `Bootstrap` \
 Projetos em destaque: Site completo da plataforma, Doity Play, Templates para sites de eventos
 <br/>
-
-Encontre-me no [LinkedIn](https://www.linkedin.com/in/anilsonlopes/) para uma descrição mais detalhada da minha jornada.
