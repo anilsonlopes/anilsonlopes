@@ -1,12 +1,12 @@
 ## Hello world 😄
 
-
 [<img width="250px" alt="Typing on computer" src="https://github.com/anilsonlopes/anilsonlopes/assets/89232048/e29ede5d-f1c5-47b2-961c-9671ec0fb081" />]()
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anilsonlopes&color=blueviolet&style=for-the-badge" alt="Profile views" /> </p>
 
 ### Experiência de trabalho
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/anilsonlopes/anilsonlopes/assets/89232048/b344c26d-5774-4ecc-b331-256d5ffbc393"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/anilsonlopes/anilsonlopes/assets/89232048/b344c26d-5774-4ecc-b331-256d5ffbc393"/>](https://quila.dev/)
 
 **Founder & CEO Frontend UI/UX** \
 [**quila.dev**](https://www.linkedin.com/company/quila-dev) • Tempo integral · 2010 ~ atualmente \
