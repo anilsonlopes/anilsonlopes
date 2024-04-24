@@ -3,7 +3,7 @@
     <td>
       <p align="center">
         <strong>
-          Focado em proporcionar experiências digitais memóraveis.
+          Focado em proporcionar experiências digitais memoráveis.
         </strong>
       </p>
       <p align="center">
