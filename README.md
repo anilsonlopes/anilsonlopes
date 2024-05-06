@@ -2,17 +2,17 @@
   <tr>
     <td>
       <p align="center">
+        <img width="300px" alt="Typing on computer" src="https://github.com/anilsonlopes/anilsonlopes/assets/89232048/e29ede5d-f1c5-47b2-961c-9671ec0fb081" />
+      </p>
+    </td>
+    <td>
+      <p>
         <strong>
           Focado em proporcionar experiências digitais memoráveis.
         </strong>
       </p>
-      <p align="center">
+      <p>
         Acessível, escalável & autossustentável.
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img width="250px" alt="Typing on computer" src="https://github.com/anilsonlopes/anilsonlopes/assets/89232048/e29ede5d-f1c5-47b2-961c-9671ec0fb081" />
       </p>
     </td>
   </tr>
