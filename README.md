@@ -1,22 +1,5 @@
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img width="300px" alt="Typing on computer" src="https://github.com/anilsonlopes/anilsonlopes/assets/89232048/e29ede5d-f1c5-47b2-961c-9671ec0fb081" />
-      </p>
-    </td>
-    <td>
-      <p>
-        <strong>
-          Focado em proporcionar experiências digitais memoráveis.
-        </strong>
-      </p>
-      <p>
-        Acessível, escalável & autossustentável.
-      </p>
-    </td>
-  </tr>
-</table>
+|<img height="150px" src="https://github.com/anilsonlopes/anilsonlopes/assets/89232048/b3b90493-4f19-42da-9310-7da2b5c785f1"/>|Focado em proporcionar experiências digitais memoráveis.|
+|--|--|
 
 ### Experiência de trabalho
 
