@@ -1,5 +1,9 @@
-|<img height="150px" src="https://github.com/anilsonlopes/anilsonlopes/assets/89232048/b3b90493-4f19-42da-9310-7da2b5c785f1"/>|Focado em proporcionar experiências digitais memoráveis.|
-|--|--|
+<img src="https://github.com/anilsonlopes/anilsonlopes/assets/89232048/6616b5d4-1146-4a5e-ac7b-10abd16b3661" width="250" />
+
+### Olá, sou Anilson Lopes.
+
+Focado em proporcionar experiências digitais memoráveis.<br />
+Acessível, escalável & autossustentável.
 
 ### Experiência de trabalho
 
@@ -19,7 +23,7 @@ Linguagens & Tecnologias: Tudo que um frontend acessível e escalável precisa \
 Projetos em destaque: Site e Plataforma para gerenciamento de condomínios
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/anilsonlopes/anilsonlopes/assets/89232048/f2538e80-d8ac-4d3a-9268-64f31311dc1d"/>](https://doity.com.br/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/anilsonlopes/anilsonlopes/assets/89232048/26edda32-35a9-437d-9e42-49c4e9087ea3"/>](https://doity.com.br/)
 
 **Frontend Developer** \
 [**Doity**](https://www.linkedin.com/company/3287179/) • Tempo integral · 2016 ~ 2021 \
