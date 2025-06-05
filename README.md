@@ -10,7 +10,7 @@ Acessível, escalável & autossustentável.
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/anilsonlopes/anilsonlopes/assets/89232048/b344c26d-5774-4ecc-b331-256d5ffbc393"/>](https://quila.dev/)
 
 **Founder & CEO Frontend UI/UX** \
-[**quila.studio**](https://www.linkedin.com/company/quila-dev) • Full time 1/2 hobby · 2010 ~ atualmente \
+[**quila.dev**](https://www.linkedin.com/company/quila-dev) • Full time 1/2 hobby · 2010 ~ atualmente \
 Linguagens & Tecnologias: Explorando o ecossistema para desenvolvimento web \
 Projetos em destaque: Site e [experimentos](https://quila.dev/lab)
 <br/>
